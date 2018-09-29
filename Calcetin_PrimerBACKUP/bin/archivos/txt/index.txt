@@ -1,0 +1,5 @@
+1::Clientes::<K>Dni::Number::Nombre::String::Apellido::String::Fecha de nacimiento::Date::Importe::Currency::
+2::Departamentos::<K>Id::Number::Nombre::String::Personal::Number::Presupuesto::Currency::
+3::Marketing::<K>Id::Number::Nombre::String::Personal::Number::Presupuesto::Float::
+4::Personal::<K>Id::Number::<K>Id_Departamento::Number::Nombre::String::Personal::Number::Presupuesto::Currency::
+5::00::<K>campo1::Number::<K>campo2::Float

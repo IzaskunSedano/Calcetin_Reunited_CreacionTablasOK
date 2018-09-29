@@ -1,0 +1,8 @@
+codCliente:Nombre:Apellidos:Direccion:
+nvarchar:nvarchar:nvarchar:nvarchar:
+0001:Diego:Llop:Gran Via:
+0002:Guillermo:Segura:Giputxi:
+0003:Asier:Rodriguez:Portu:
+0004:Izaskun:Sedano:Bugalesa:
+0005:Izaskun:Sedano:Bugalesa:
+0006:Izaskun:Sedano:Bugalesa2:
